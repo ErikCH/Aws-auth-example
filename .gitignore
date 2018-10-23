@@ -1,6 +1,12 @@
 .DS_Store
 node_modules
 /dist
+#awsamplifyjs
+aws-info.json
+project-config.json
+aws-exports.*
+/amplify
+.amplifyrc
 
 # local env files
 .env.local
